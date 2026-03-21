@@ -1,9 +1,8 @@
 # Screen Fade System
 
 * Screen Fades for Unity Projects
-* Unity minimum version: **6000.1**
-* Current version: **1.0.0**
-* License: **MIT**
+* Unity minimum version: **6000.3**
+* Current version: **2.0.0**
 
 ## Summary
 
@@ -26,19 +25,19 @@ If those components do not meet your specifications, please feel free to create 
 
 ### Using the Package Registry Server
 
-Follow the instructions inside [here](https://cutt.ly/ukvj1c8) and the package **ActionCode-ScreenFadeSystem** 
+Follow the instructions inside [here](https://cutt.ly/ukvj1c8) and the package **1M Bits Horde-ScreenFadeSystem** 
 will be available for you to install using the **Package Manager** windows.
 
 ### Using the Git URL
 
 You will need a **Git client** installed on your computer with the Path variable already set. 
 
-- Use the **Package Manager** "Add package from git URL..." feature and paste this URL: `https://github.com/HyagoOliveira/ScreenFadeSystem.git`
+- Use the **Package Manager** "Add package from git URL..." feature and paste this URL: `https://github.com/1mbitshorde/ScreenFadeSystem.git`
 
 - You can also manually modify you `Packages/manifest.json` file and add this line inside `dependencies` attribute: 
 
 ```json
-"com.actioncode.screen-fade-system":"https://github.com/HyagoOliveira/ScreenFadeSystem.git"
+"com.1mbitshorde.screen-fade-system":"https://github.com/1mbitshorde/ScreenFadeSystem.git"
 ```
 
 ---

@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace ActionCode.ScreenFadeSystem
+namespace OneM.ScreenFadeSystem
 {
     /// <summary>
     /// Factory for <see cref="AbstractScreenFader"/> implementations.

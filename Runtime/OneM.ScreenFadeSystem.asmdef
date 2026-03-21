@@ -1,6 +1,6 @@
 {
-    "name": "ActionCode.ScreenFadeSystem",
-    "rootNamespace": "ActionCode.ScreenFadeSystem",
+    "name": "OneM.ScreenFadeSystem",
+    "rootNamespace": "OneM.ScreenFadeSystem",
     "references": [
         "GUID:2055e4f86e8d13344b9d599457150310"
     ],

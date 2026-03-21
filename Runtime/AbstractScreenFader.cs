@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ActionCode.ScreenFadeSystem
+namespace OneM.ScreenFadeSystem
 {
     /// <summary>
     /// Abstract component able to fade the screen in and out asynchronously.

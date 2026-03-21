@@ -1,8 +1,8 @@
 #if ANIMATION_MODULE
 using UnityEngine;
-using ActionCode.AwaitableSystem;
+using OneM.AwaitableSystem;
 
-namespace ActionCode.ScreenFadeSystem
+namespace OneM.ScreenFadeSystem
 {
     /// <summary>
     /// Fades the screen in and out using the local <see cref="Animation"/> component.

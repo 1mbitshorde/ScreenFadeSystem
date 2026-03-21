@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-03-21
+### Changed
+- Move package into 1M Bits Horde
+
 ## [1.0.0] - 2025-09-21
 ### Added
 - ScreenFadeFactory
@@ -19,5 +23,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - gitignore
 - Initial commit
 
-[Unreleased]: https://github.com/HyagoOliveira/ScreenFadeSystem/compare/1.0.0...main
-[1.0.0]: https://github.com/HyagoOliveira/ScreenFadeSystem/tree/1.0.0/
+[Unreleased]: https://github.com/1mbitshorde/ScreenFadeSystem/compare/2.0.0...main
+[2.0.0]: https://github.com/1mbitshorde/ScreenFadeSystem/tree/2.0.0/
+[1.0.0]: https://github.com/1mbitshorde/ScreenFadeSystem/tree/1.0.0/
