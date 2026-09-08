@@ -1,14 +1,14 @@
 {
   "name": "com.1mbitshorde.screen-fade-system",
   "displayName": "1M Bits Horde-Screen Fade System",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "unity": "6000.6",
   "description": "This package contains Screen Fades for Unity Projects.",
   "keywords": [
     "Screen"
   ],
   "dependencies": {
-    "com.1mbitshorde.awaitable-system": "2.0.1"
+    "com.1mbitshorde.awaitable-system": "2.2.0"
   },
   "license": "MIT",
   "homepage": "https://github.com/1mbitshorde/ScreenFadeSystem#readme",
