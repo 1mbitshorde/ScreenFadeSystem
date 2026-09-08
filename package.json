@@ -2,7 +2,7 @@
   "name": "com.1mbitshorde.screen-fade-system",
   "displayName": "1M Bits Horde-Screen Fade System",
   "version": "2.0.0",
-  "unity": "6000.3",
+  "unity": "6000.6",
   "description": "This package contains Screen Fades for Unity Projects.",
   "keywords": [
     "Screen"

@@ -1,8 +1,7 @@
 # Screen Fade System
 
 * Screen Fades for Unity Projects
-* Unity minimum version: **6000.3**
-* Current version: **2.0.0**
+* Unity minimum version: **6000.6**
 
 ## Summary
 
