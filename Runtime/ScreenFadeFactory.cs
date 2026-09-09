@@ -48,5 +48,7 @@ namespace OneM.ScreenFadeSystem
             var instance = instances.FirstOrDefault().Value;
             return instance && instance.TryGetComponent(out fader);
         }
+
+        public static void Dispose() => instances.Clear();
     }
 }
